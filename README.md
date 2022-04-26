@@ -9,8 +9,8 @@
   ![image](https://user-images.githubusercontent.com/68357388/164280439-70142db6-f00b-4830-9bc8-0a85c3db0961.png)
 2. React - lidando com arquivos estáticos:
   - Projeto aluroni
-  - Uma tela de cardápio de um restaurante, onde é possível aplicar filtros e ordenação.
+  - Um site de um restaurante com telas de início, cardápio, sobre e detalhes do prato. As trocas de páginas são feitas utilizando o React Router.
   - Finalizado:
- ![image](https://user-images.githubusercontent.com/68357388/164815535-d7d8ca8f-d862-41da-9e25-ff98ac135804.png)
+![image](https://user-images.githubusercontent.com/68357388/165309429-c8a20c08-7eb8-4d2c-bbaf-54273c609d59.png)
 ![image](https://user-images.githubusercontent.com/68357388/164815565-541430fc-e655-47f2-bdad-d35bd33a130c.png)
 
