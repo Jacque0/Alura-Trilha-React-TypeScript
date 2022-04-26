@@ -11,7 +11,4 @@
   - Projeto aluroni
   - Um site de um restaurante com telas de início, cardápio, sobre e detalhes do prato. As trocas de páginas são feitas utilizando o React Router.
   - [Site Aluroni](https://aluroni.netlify.app)
-  - Finalizado:
-![image](https://user-images.githubusercontent.com/68357388/165309429-c8a20c08-7eb8-4d2c-bbaf-54273c609d59.png)
-![image](https://user-images.githubusercontent.com/68357388/164815565-541430fc-e655-47f2-bdad-d35bd33a130c.png)
 
